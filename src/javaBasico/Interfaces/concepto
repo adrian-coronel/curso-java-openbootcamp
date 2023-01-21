@@ -1,0 +1,9 @@
+
+¿Qué son las interfaces?
+Una interface es un CONTRATO de que es lo "que hay que hacer" y la
+CLASE que lo implemente definira "como se va a hacer"
+
+Las clases que implementen las interfaces están obligadas a darle cuerpo
+a los métodos
+
+

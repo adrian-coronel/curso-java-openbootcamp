@@ -1,0 +1,9 @@
+
+
+Una diferencia entre ArrayList y VECTORES es que un ARRAYList no puede
+por ejemplo eliminar(MODIFICAR) dos objetos al mismo tiempo, aunque vayan en paralelo,
+siempre seca secuencial, es decir, uno se ejecutará primero y el otro luego. En cambio,
+un VECTOR si puede ser modificado en paralelo(al mismo tiempo)
+
+PROGRAMACION CONCURRENTE -> VECTORES
+PROGRAMACION SECUENCIAL  -> ARRAYLIST

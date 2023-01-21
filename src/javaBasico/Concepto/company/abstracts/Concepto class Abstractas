@@ -1,0 +1,13 @@
+
+En el caso coche -> {
+
+Las clases abstractas pueden contener lo mismo que una clase normal,
+con la diferencia que no podremos instanciarlas, ya que por ejemplo:
+
+Una clase Padre coche que sería la BASE para los demás tipos de coches,
+es una clase incompleta ya que no es un coche en específico, es decir
+solo estaría completa a travéz de una clase HIJA
+
+}
+
+

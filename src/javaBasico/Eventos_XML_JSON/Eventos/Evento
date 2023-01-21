@@ -1,0 +1,16 @@
+
+Cuando se habla de eventos den java, se hace referencia  a eventos
+de INTERFAZ ESCRITORIO - Interfaz de usuario.
+
+Todas las app de escritorio existente, son de tipo evento, es decir
+cuando damos click en un boton la aplicación realizará una acción.
+
+CUANDO LA INTERFAZ REACCIONA A MI CLICK ES UN TIPO DE EVENTO
+
+
+La opción create Listener(de Swing) -> Un Listener es algo que va a estar
+en espera de que algo se produsca
+
+https://www.discoduroderoer.es/eventos-y-listeners-en-java/
+
+

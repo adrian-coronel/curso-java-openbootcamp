@@ -1,0 +1,29 @@
+
+Consiste en escribir un codigo de programación que se pueda reutilizar
+para objetos de diversos tipos.
+
+Sirve para menejar objetos en general.
+
+Ejemplo:
+Basicamente consiste en especificar el TIPO de Objeto que almacenaremos
+OBSERVAR EJEMPLO BAD
+ArrayList<String> archivos = new ArrayList<String>();
+ArrayList<File> archivos = new ArrayList<File>();
+
+¿Por qué usar la programación genérica?
+- Mayor sencillez del código.
+- Reutilización del código en numerosos escenarios.
+- Comprobación de errores en tiempo de compilación.
+
+
+¿Podemos hacer lo mismo sin programación genérica?
+Si que se puede, utilizando el concepto de HERENCIA
+que engloba en general un base para otros objetos. Sin embargo,
+esto tiene los siguientes inconvenientes:
+- Uso continuo del casting.
+- Complicación del código.
+- No posibilidad de comprobación de errores.
+
+
+ES MUCHO MÁS DIFICIL MANEJAR ERRORES EN TIEMPO DE EJECUCIÓN ->
+ES MÁS FACIL MANEJAR ERRORES EN TIEMPO DE COMPILACIÓN -> Es lo que me marca el IDE cuando escribimos

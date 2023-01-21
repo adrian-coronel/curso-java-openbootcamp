@@ -1,0 +1,5 @@
+
+Protege la información de manupulaciones no autorizadas
+
+Consiste en ocultar atributos de un objeto qeu solo se puedan cambiar
+mediante operaciones definidas en ese objeto

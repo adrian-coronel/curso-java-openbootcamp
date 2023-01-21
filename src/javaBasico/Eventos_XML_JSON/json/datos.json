@@ -1,0 +1,16 @@
+{
+  "credenciales": {
+    "usuario": "openbootcamp",
+    "VIP": true,
+    "edad": 19,
+    "clave": "12345",
+
+    "videos": [
+      "Primera sesión",
+      "Segunda sesíón",
+      "Tecera sesíón"
+    ],
+
+    "Array": ["Adrian","Junior","Leonardo"]
+  }
+}
