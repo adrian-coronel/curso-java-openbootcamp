@@ -1,0 +1,4 @@
+Single Responsability Principe   => Principio de Responsabilidad Unica
+
+La clase debe tener una UNICA responsabilidad, es decir, que si nuestra clase
+tiene más de una responsabilidad, se estará rompiendo el principio
