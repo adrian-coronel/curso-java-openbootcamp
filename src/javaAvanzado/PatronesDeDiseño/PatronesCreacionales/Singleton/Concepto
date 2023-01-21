@@ -1,0 +1,13 @@
+
+El patrón singleton consiste en que solo puede haber UNA INSTANCIA de una CLASE.
+
+USOS: INSTANCIA COMPARTIDA
+- Compartir conexiones a una base de datos
+- Compartir acceso a un mismo fichero
+- Evitar la instanciación a una clase multiples veces
+
+
+El patrón de diseño Singleton (instancia única) está
+diseñado para restringir la creación de objetos pertenecientes a una clase o el valor
+de un tipo a un único objeto. Su intención consiste en garantizar que una clase sólo
+tenga una instancia y proporcionar un punto de acceso global a ella.

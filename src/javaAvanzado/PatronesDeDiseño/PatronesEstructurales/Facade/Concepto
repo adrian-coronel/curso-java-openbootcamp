@@ -1,0 +1,9 @@
+
+ El patrón Facade o FC consiste en envolver un sistema complejo de clase,bibliotecas o frameworks mediante
+ una fachada simplificada y facil de entender.
+
+ Proporciona una interfaz simplificada (pero limitada) a un sistema complejo de clases, bibliotecas o
+ frameworks_. El patrón Facade disminuye la complejidad general de la aplicación, al mismo tiempo
+ que ayuda a mover dependencias no deseadas a un solo lugar.
+
+ *** En el ejemplo se supone que las clases y interface son mi libreria creada y en el main las uso ***

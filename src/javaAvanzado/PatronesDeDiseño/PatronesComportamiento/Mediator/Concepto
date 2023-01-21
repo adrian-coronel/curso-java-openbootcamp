@@ -1,0 +1,9 @@
+
+El patrón mediator actua como mediator o comunicador entre dos objetos.
+Por ejemplo una clase A necesita datos de una clase B, pero se las pide al mediador y este
+lo obtiene de la clase B, para luego retornarselo a la clase A
+
+Se utilizan mucho cuando se crean aplicaciones de escritorio
+
+- Patrón de diseño de comportamiento que reduce el acoplamiento entre los componentes de un
+  programa haciendo que se comuniquen indirectamente a través de un objeto mediador especial.

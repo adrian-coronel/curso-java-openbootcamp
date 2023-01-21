@@ -1,0 +1,5 @@
+
+Cuando se produce un error de RunTime(Tiempo de ejecución) se produce una
+"Exception", para capturar esto, hacemos uso de "try" y "catch" y opcionalmente "finally"
+
+

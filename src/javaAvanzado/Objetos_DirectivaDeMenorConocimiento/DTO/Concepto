@@ -1,0 +1,6 @@
+
+Data Transfer Object
+
+Permite obtener información de varias clases a travéz de ella.
+EL DTO contiene las propiedades del objeto. Datos que pueden tener su origen en una o más
+entidades de información. Estos datos son incorporados a una instancia de un JavaBean.

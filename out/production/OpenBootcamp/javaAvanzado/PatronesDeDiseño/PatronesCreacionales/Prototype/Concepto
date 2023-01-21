@@ -1,0 +1,4 @@
+
+El patron prototipe consiste en que una CLASE se CLONE asi misma y que
+el clon herede todos los métodos, propiedades y su estado(sus valores dados)
+

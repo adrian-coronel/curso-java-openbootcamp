@@ -1,0 +1,6 @@
+
+Postman es una apliación para realizar pruebas o peticiones contra
+APIS utilizando el protocólo HTTP y mediante la obteción de respuestas
+se puede ejecutar TEST para verificar si algo funciona o no funciona.
+Es utilizado mayormente al momento de DEPURAR apis o de invocar apis
+manualmente, sin tener que utilizar herramientas de linea de comando como CURL

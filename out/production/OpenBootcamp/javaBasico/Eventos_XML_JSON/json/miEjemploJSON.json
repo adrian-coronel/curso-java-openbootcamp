@@ -1,0 +1,25 @@
+{
+  "familia": {
+    "persona1": {
+      "nombre": "Adrian Gabriel",
+      "apellido": "Coronel Mendoza",
+      "edad": 19
+    },
+
+    "persona2": {
+      "nombre": "Leonardo Enmanuel",
+      "apellido": "Coronel Mendoza",
+      "edad": 16
+    },
+    "persona3": {
+      "nombre": "Oscar Junior",
+      "apellido": "Coronel Mendoza",
+      "edad": 17
+    },
+    "persona4": {
+      "nombre": "Edilson Emiliano",
+      "apellido": "Quiroz Coronel",
+      "edad": 19
+    }
+  }
+}

@@ -1,0 +1,22 @@
+
+Temas:
+- Interfacez /
+- Swing Form + Patron Observer /
+- Json /
+- Throw y Throws (Gestion de errores) /
+- POO /
+- Tipos de datos avanzados
+
+Ejercicio 1:
+
+Diseñar un sistema educativo utilizando interfaces gráficas, donde se muestre en diferentes tablas los datos
+de los profesores y alumnos, donde al momento de seleccionar a un alumno se pueda calcular si aprobo o desaprobo(4 notas de TEO y 6 de LAB;
+promedio TEO * 0.4 + promedio LAB * 0.6):
+- 1. Crea un archivo JSON que contenga datos de Profesores y Alumnos
+- 2. Crear la clase Alumno y Profesor utilizando Herencia e Interfaces.
+- 3. Al lado de la tabla de Alumnos calcula sus NOTA FINAL cuando se seleccione al estudiante en la tabla.
+- 4. Crear un CRUD donde utilizes polimorfismo con Interfaces.
+- 5. Crea un Swing donde modeles una calculadora y gestiones errores usando Throw y Throws.
+- 6. Si quieres puedes hacer uso de TIPOS DE DATOS AVANZADOS.
+
+

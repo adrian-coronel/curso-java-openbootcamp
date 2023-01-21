@@ -1,0 +1,6 @@
+
+Los PATRONES CREACIONALES sirven para crear objetos e instancias de un forma más simple, entre ellos están:
+- SINGLETON
+- FACTORY
+- BUILDER
+- PROTOTAP

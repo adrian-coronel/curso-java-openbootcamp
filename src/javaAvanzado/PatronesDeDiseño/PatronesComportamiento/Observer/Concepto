@@ -1,0 +1,5 @@
+
+definir una dependencia uno a uno entre dos o más objetos para transmitir todos los cambios de un objeto concreto
+de la forma más sencilla y rápida posible. Para conseguirlo, puede registrarse en un objeto (observado)
+cualquier otro objeto, que funcionará como observador.
+

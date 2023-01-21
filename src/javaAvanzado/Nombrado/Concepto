@@ -1,0 +1,17 @@
+
+Cuando hablamos de nombrado, nos referimos a que el nombre que le otorgamos a las clases, metodos, propiedades... etc,
+son importantes, estás deben ser CLARAS y CONCISAS.
+
+Notas:
+
+Las CLASES comienzan con mayuscula -> CocheElectrico
+
+Las INTERFACES deberán llevar como nombre un ADJETIVO y si usamos ingles debemos tratar que termine en "able" -> Iterable
+
+Los METODOS comienzan con minuscula y deber ser concisos -> crearUsuario()
+
+Las CONSTANTES se escriben en mayuscula y se pueden usar memotecnicos -> MAX_USERS
+
+Las VARIABLES tienen que ser AUTODESCRIPTIVOS -> lista, numeros, usuario....
+
+La NOTACION UNGARA(poner una inicial para hacer refencia a un tipo de dato) -> iNumero

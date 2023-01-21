@@ -1,0 +1,10 @@
+
+La RECURSIÓN basicamente es cuando una función se llama así misma,
+esta forma tiene un uso eficaz en los arboles binarios.
+Lo MALO de la RECUSIVIDAD, es que gasta recursos, ya que al iterarse en ella misma
+crea "copias" de los valores para poder iterar
+
+Hay 2 formas de hacer una función recursiva, una sería de cabesera y de cola.
+- Funcion Recursiva por Cabesa -> Es cuando el primer paso que hagamos es invocar a la función(o que no sea la ultima)
+- Funcion Recursiva por Cola -> Es cuando el ultimo paso dentro de la función es que se invoque a ella misma
+

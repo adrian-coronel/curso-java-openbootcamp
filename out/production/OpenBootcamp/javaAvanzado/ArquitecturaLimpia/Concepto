@@ -1,0 +1,10 @@
+
+La Clean Architecture o Aquitectura Limpia:
+
+Estructurar el codigo en capas contiguas
+
+La arquitectura limpia es una filosofía de diseñ de software que separa los elementos de un
+diseño en niveles de anillo.
+Un objetivo importante de la arquitectura limpia es proporcionar a los desarrolladores una forma
+de organizar el código de tal manera que encapsule la lógica comercial pero la mantenga
+separada del mecanismo de entrega.

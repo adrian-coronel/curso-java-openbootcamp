@@ -1,0 +1,6 @@
+
+El modificador STATIC indica que por ejemplo un "método" pertenece
+a una clase y no al objeto, aparte que se puede utilizar sin necesidad de crear
+un objeto de la clase.
+
+Podemos crear "static" cuando creamos constantes.

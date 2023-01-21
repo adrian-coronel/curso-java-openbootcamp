@@ -1,0 +1,10 @@
+
+Consiste en CONSTRUIR una JERARQUIA de CLASES
+
+->El ejemplo va a consistir en que dependiendo del pais en el que estemos
+  se usará un tipo de moneda diferente<-
+
+
+Nos permite encapsular la creación de objetos.
+Desacopla las dependencias entre clases al no aparecer explícitamente el operador new cuando creamos objetos.
+Nos permite tener varias fábricas que crean distintos conjuntos del mismo tipo de datos

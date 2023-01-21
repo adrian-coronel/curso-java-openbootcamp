@@ -1,0 +1,28 @@
+
+El principio SOLID nos recuerda como tiene que funcionar nuestra aplicación
+
+S -> Principio de responsalidad Unicá:
+     Una clase componente o service debe ser responsable de una sola cosa.
+     Por ejemplo: Class Vehiculo no puede responsable de guardar info en una BD, ya que no es su
+                  responsabilidad acceder a una base de datos.
+
+O -> Principio de Abierto Cerrado:
+     Las entidades del software deben estar abiertas para ser EXTENDIDAS, pero cerradas a la hora de MODIFICAR.
+     Por ejemplo:
+
+L -> Principio de sustitución de LISKOV:
+     Una clase se debe poder sustituir por su clase padre. Es decir una clase debe tener una jerarquía de clases
+     facil de entender y que su código sea reutilizable.
+
+I -> Principio de segregación de interfacez
+     Una clase no debe depender de una interfaz que no va a utilizar.
+     Por ejemplo: Si tenemos una interfaz Pajaro que tiene funciones como volar y comer, esta no la voy
+                  a implementar en una clase perro, ya que estos no vuelan.
+
+D -> Princípio de Inverción de Dependencias:
+     Las dependencias se deben abstraer y que un modulo de alto nivel no debe depender de un modulo de bajo nivel.
+     Es decir que no vamos a utilizar llamadas a métodos muy concretos, sino que implementaremos métodos abstractos
+     de forma generica.
+     Por ejemplo: Si en un proyecto se cambia de Oracle a MySQL y tengo que sustituir todo el código, pues no estoy
+                  cumpliendo con este principio, ya que lo unico que tendriamos que crear
+                  una clase para la nueva BD y cambiar la instansiacion de la BD anterior

@@ -1,0 +1,11 @@
+
+Permite a un objeto alterar su comportamiento cuando su estado interno cambia.
+Parece como si el objeto cambiara su clase.
+
+El patrón extrae comportamientos relacionados con el estado, los coloca dentro
+de clases de estado separadas y fuerza al objeto original a delegar el trabajo
+de una instancia de esas clases, en lugar de actuar por su cuenta.
+
+
+EJEMPLO:
+Simularemos que no podemos hacer una foto sin desbloquear el telefono movil

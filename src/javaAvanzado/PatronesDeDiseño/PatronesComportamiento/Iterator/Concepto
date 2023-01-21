@@ -1,0 +1,3 @@
+
+Consiste en implementar una serie de métodos que permitirán recorrer datos
+SIN SABER como están almacenados INTERNAMENTE(List,Map ...etc) en la clase.

@@ -1,0 +1,9 @@
+
+La programación funcional en java es mas que lambdas, es un nuevo estilo de programación que se enfoca en
+ que vas a resolver y no en como resolverlo
+
+Es un tipo de programación DECLARATIVA y no IMPERATIVA.
+
+DECLARATIVA -> Consiste en decirle a un programa lo que tiene que hacer en lugar de decirle cómo debería hacerlo.
+
+- Divide el programa en tareas pequeñas que son ejecutadas por funciones.

@@ -1,0 +1,14 @@
+
+Una función pura es toda aquella que dado los mismos parámetros de entrada, siempre produzca
+el mismo resultado de salida
+
+Requisitos de las funciones puras:
+- Siempre devuelve el mismo valor, cuando sus parámetros(valores que ingreso) de entrada no varien.
+    x ejemplo en el metodo sumar, si yo ingreso 2 y 5, SIEMPRE me debe retornar 7
+
+- No debe tener efecto colaterales, es decir, no debe modificar variables que no pertenezcan a la función o
+  llamar a otra función dentro de ella.
+
+- Tiene que hacer exactamente lo que dice(SI DICE SUMAR, SOLO DEBE SUMAR).
+
+

@@ -1,0 +1,8 @@
+
+Las funciones son agrupaciones de codigo que realizarán una tarea en concreta y su principal idea es reutilizar código
+de manera óptima.
+
+FUNCION MONABICA -> Tiene 1 párametro
+FUNCION DIÁDICA -> Tienen 2 párametros
+FUNCION TRIÁDICA -> Tienen 3 parámetros
+FUNCION POLIÁDICA -> Tienen de 4 a más parámetros.

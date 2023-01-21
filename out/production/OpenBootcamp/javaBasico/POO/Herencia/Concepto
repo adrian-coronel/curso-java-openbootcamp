@@ -1,0 +1,6 @@
+
+Basicamente este concepto nos permitirá reutilizar codigo de forma optima,
+creando clases "hijas" que heredarán atributos y métodos de las clases "padres"
+
+Permite que se puedan definir nuevas clases basadas de unas ya existentes a fin de reutilizar
+el codigo, generando una jerarquía de clases dentro de una aplicación.

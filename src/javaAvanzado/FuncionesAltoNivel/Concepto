@@ -1,0 +1,8 @@
+
+Es una función que debe recibir obligatoriamente como parámetro otra función o bien
+debe retornar una función.
+
+Concepto LAMBDAS son funciones que no necesitan una clase y se definen
+en el lugar donde se están usando. De esta manera no hay una función
+extra utilizando espacio en memoria.
+

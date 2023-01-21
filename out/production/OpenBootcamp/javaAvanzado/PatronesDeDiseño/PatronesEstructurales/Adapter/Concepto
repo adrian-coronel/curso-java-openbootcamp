@@ -1,0 +1,6 @@
+
+Convierte la interfaz de una clase en otra interfaz para adaptarla a las necesidades de un desarrollo concreto.
+El patrón Adaptador permite que clases con interfaces incompatibles puedan trabajar juntas.
+
+Consiste en que multiples clases que no necesariamente trabajen con la misma implementación(interface),
+puedan trabajar coherente.

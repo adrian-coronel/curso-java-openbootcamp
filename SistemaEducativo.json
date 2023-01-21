@@ -1,0 +1,93 @@
+{
+  "colegio1": {
+    "nombre": "Fe y Alegría N29",
+    "directivos": {
+      "subDirectora": {
+        "codigo": "34545432",
+        "nombre": "Miryam Rosario",
+        "apellido": "Mendoza Huanca",
+        "cargo": "Sub Directora",
+        "edad": 43
+      },
+      "directora": {
+        "codigo": "45367453",
+        "nombre": "Martha Angela",
+        "apellido": "Ramoz Chiroke",
+        "cargo": "Directora",
+        "edad": 47
+      }
+    },
+    "docentes": {
+      "docente1": {
+        "codigo": "4653435",
+        "nombre": "Juan",
+        "apellido": "Gustamante Salas",
+        "area": "Comunicación",
+        "edad": 42
+      },
+      "docente2": {
+        "codigo": "3565757",
+        "nombre": "Marcos Manuel",
+        "apellido": "Chozo Fernandez",
+        "area": "Matemática",
+        "edad": 36
+      },
+      "docente3": {
+        "codigo": "6786423",
+        "nombre": "Miguel Ramón",
+        "apellido": "Huamán Huayanca",
+        "area": "Ciencia y Ambiente",
+        "edad": 50
+      },
+      "docente4": {
+        "codigo": "5721528",
+        "nombre": "Carlos Julio",
+        "apellido": "Torrez Torrez",
+        "area": "Arte",
+        "edad": 35
+      }
+    },
+    "alumnado": {
+      "alumno1": {
+        "codigo": "00977878",
+        "nombre": "Adrian Gabriel",
+        "apellido": "Coronel Mendoza",
+        "edad": 19,
+        "notasTeo": [18,19,17,20],
+        "notasLab": [13,18,18,19,20,20]
+      },
+      "alumno2": {
+        "codigo": "0086567",
+        "nombre": "Oscar Junior",
+        "apellido": "Coronel Mendoza",
+        "edad": 17,
+        "notasTeo": [18,15,14,20],
+        "notasLab": [13,16,15,19,20,20]
+      },
+      "alumno3": {
+        "codigo": "00868675",
+        "nombre": "Leonardo Enmanuel",
+        "apellido": "Coronel Mendoza",
+        "edad": 16,
+        "notasTeo": [11,20,11,20],
+        "notasLab": [13,18,16,19,10,20]
+      },
+      "alumno4": {
+        "codigo": "0756747",
+        "nombre": "Edilson Emiliano",
+        "apellido": "Quiroz Coronel",
+        "edad": 19,
+        "notasTeo": [18,19,17,20],
+        "notasLab": [13,18,18,19,20,20]
+      },
+      "alumno5": {
+        "codigo": "9746545",
+        "nombre": "Steven Anderson",
+        "apellido": "Coronel Chenta",
+        "edad": 19,
+        "notasTeo": [18,19,15,15],
+        "notasLab": [13,18,19,7,10,20]
+      }
+    }
+  }
+}

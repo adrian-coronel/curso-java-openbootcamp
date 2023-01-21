@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<credenciales>
+    <usuario>openbootcamp</usuario>
+    <clave>12345</clave>
+    <!--Los que esta dentro del TAG son atributos(proveedor="..")-->
+    <videos proveedor="vimeo" bootcamp="openbootcamp"><!--Padre de video y hija de <credenciales>-->
+        <video>Primera sesión</video><!--Etiqueta hija o nodo hijo-->
+        <video>Segunda sesión</video>
+        <video>Tercera sesión</video>
+    </videos>
+
+    <!--Si la etiqueta no va a contener ningun valor, podemos cerrarla asi:-->
+    <equita proveedor="youtube"/>
+</credenciales>

@@ -1,0 +1,41 @@
+SE ENCUENTRA EN OTRO PROJECTO, YA QUE TENIA QUE INSERTAR MAVEN
+
+Concepto: Es una aplicación web que cumple patrones determinados
+
+-VERBOS HTTP: (por ejemplo GET y POST)
+
+ -> Tipo de petición que enviamos a un servidor utilizando protocolo HTTP.
+ -> GET: Obtiene recursos de un servidor, es decir solicito información a un servidor.
+ -> POST: Envio datos al servidor(por ejemplo un formulario).(ENVIA TODOS LOS DATOS DEL USUARIO + LO QUE HA CAMBIADO)
+ -> PUT: Actualiza datos que ya existe, donde se envia todos los datos más los actualizados
+ -> PATCH: Actualiza datos que ya existe, donde se envia solo los datos actualizados
+ -> DELETE: Se utiliza para eliminar un recurso que ya existe
+
+OJO NO TODAS LAS APLICACIONES SOPORTAN TODOS LOS VERBOS REST
+
+Ejemplo:
+GET HTTP://WWW.DOMINIO.TLD/BOOTCAMPERS -> Obtengo una lista / bootcampers -> sería un RECURSO
+    - Usuario 1
+    - Usuario 2
+    - Usuario 3
+
+POST HTTP://WWW.DOMINIO.TLD/BOOTCAMPERS -> Creo los datos
+    "Crea este nuevo usuario con nombre: ......"
+
+PUT: HTTP://WWW.DOMINIO.TLD/BOOTCAMPERS/USUARIO1 -> Tengo que especificar si es que voy a actualizar un "dato"
+
+DELETE: HTTP://WWW.DOMINIO.TLD/BOOTCAMPERS/USUARIO1
+
+
+LOS SERVICIOS REST -> TIENEN QUE ESTAR BIEN DEFINIDOS
+
+ejemplo: http://www.dominio.tld/users -> el nombre debe estar en plural (USERS)
+         http://www.dominio.tld/cars/ferrari91 -> "cars" me da todos lo carros y "ferrari91" especifica que carro
+         http://www.dominio.tld/users/adrian/friends/sebastian -> me trae un amigo llamado Sebastian
+
+VERSIONAR LAS APIS:
+Ejempo:    http://www.dominio.tld/api/v1/cars/ferrari91
+          - POST "nombre","apellido" -> Mi primera version pide nombre y apellido
+
+          http://www.dominio.tld/api/v2/cars/ferrari91
+                    - POST "nombre completo" -> Mi segunda version pide nombre completo

@@ -1,0 +1,28 @@
+
+CAMPO : VALOR
+"usuario": "openbootcamp"
+
+Json viene de la NOTACION -> JavaScript Object Notation
+
+Una de las ventajas que tiene JSON frente a XML, es que es un tipo
+de dato nativo para JS como para otros.
+
+JSON PUEDE CONTENER ARRAYS --> "Array": ["Adrian","Junior","Leonardo"]
+En JSON lo que tenemos son VALORES o DOCUMENTOS
+
+-Valores
+"edad": 1,
+"nombre": "Adrian"
+
+-Documentos --> Lo que esta dentro de las llaves es un documento
+"credenciales": {
+    "usuario": "openbootcamp",
+    "clave": "12345",
+
+    "videos": [
+      "Primera sesión",
+      "Segunda sesíón",
+      "Tecera sesíón"
+    ]
+  }
+

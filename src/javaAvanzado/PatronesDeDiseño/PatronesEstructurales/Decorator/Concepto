@@ -1,0 +1,5 @@
+
+El patron decorador añade funcionalidad a una clase ya existente sin alterar la clase existente
+
+-Consiste en mejorar una clase, sin alterar la clase original -> Se logra embolviendo las clases
+- ES COMO UNA Matrioshka {{{{}}}}

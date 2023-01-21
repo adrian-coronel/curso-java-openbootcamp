@@ -1,0 +1,10 @@
+
+
+Lo que quiere decir la imagen es que la interface funcionaría como un
+contrato en el que los metodo CRUD ya estarían definidos, donde los
+que definirán como se realizará serían las clases, pero el MAIN ya
+se desentiende con las CLASES
+
+Esto proporciona BAJO ACOPLAMIENTO con las implementaciones
+
+las imlementaciones serian las CLASES

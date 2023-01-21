@@ -1,0 +1,28 @@
+
+Caracteristicas de los patrones más conocidos:
+
+- FACTORY:
+    Funcionalidad: Este patrón consiste en encapsular el contructor por defecto, para poder crear objetos del
+                   mismo tipo que dependan del parametro que se le pase al constructor.
+    Implementación: Considero que se podría utlilizar en el Ajuste de Lenguage, es decir, dependiendo del idioma del País
+                    que se ingrese, se utilizará una librería en particular.
+
+- SINGLETON:
+    Funcionalidad: Este patrón consiste en que se pueda inicilizar una clase UNA sola vez, conocida como instancia compartida.
+    Implementación: Un ejemplo de implementación podría ser cuando queremos realizar conexiones a la base de datos mediante
+                    una inicialización global de la clase DAO.
+
+- ADAPTER:
+    Funcionalidad: Este patrón consiste en que las clases que implementan diferentes interfaces puedan tener coherencia mediante
+                   la adaptación a un desarrollo en concreto.
+    Implementación: Considero que este patrón puede ser usado para optimizar el uso de dispositivos similares, pero con diferentes
+                    interfacez.
+
+- BUILDER:
+    Funcionalidad: Este patrón consiste en facilitar la creación de objetos complejos a travéz de un objeto fuente, el cual contendrá
+                   partes que contribuiran a la creación de objetos complejos mediante una clase abstracta.
+    Implementación: Por ejemplo, la creación de diferentes tipos de pizzas que al momento de que el usuario eliga una, se llame
+                    a la escogida a travez del Abastract Build.
+
+
+

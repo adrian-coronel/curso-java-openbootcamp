@@ -1,0 +1,17 @@
+
+El Patron Observer o Observador, consiste en que hay un ente que esta
+en escucha constantemente y cuando se produce eso, se invoca a un metodo
+que reciben los escuchantes.
+
+
+Observer es un patrón de diseño de comportamiento que permite a un objeto
+notificar a otros objetos sobre cambios en su estado. El patrón Observer
+proporciona una forma de suscribirse y cancelar la subscripción a estos
+eventos para cualquier objeto que implementa una interfaz suscriptora.
+
+¿Como se se implementa este Patron en la vida real?
+
+- Este patrón se suele implementar mucho cuando se tiene un sistema de "usuarios"
+  o un sistema de "email" marketing en el cual cuando se por ejemplo, cuando yo quiero
+  enviar un hola masivo, este llegaría a todos los receptores que estén suscritos.
+
