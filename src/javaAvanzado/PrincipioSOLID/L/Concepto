@@ -1,0 +1,4 @@
+Liskov Subtitution Principle   => Principio de Sustitución de Liskov (Barbara Liskov)
+
+Declara que una subclase debe ser sustituible por su superclase
+Consiste en que las clases DERIVADAS deben porder SUSTITUIRSE por sus clases BASES
