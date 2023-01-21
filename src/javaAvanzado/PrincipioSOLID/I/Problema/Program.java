@@ -1,4 +1,4 @@
-package javaAvanzado.PrincipioSOLID.L.Solucion;
+package javaAvanzado.PrincipioSOLID.I.Problema;
 
 public class Program {
     public static void main(String[] args) {

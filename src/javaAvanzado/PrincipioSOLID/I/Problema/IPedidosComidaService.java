@@ -1,4 +1,4 @@
-package javaAvanzado.PrincipioSOLID.L.Problema;
+package javaAvanzado.PrincipioSOLID.I.Problema;
 
 public interface IPedidosComidaService {
 

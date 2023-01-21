@@ -1,4 +1,4 @@
-package javaAvanzado.PrincipioSOLID.L.Solucion;
+package javaAvanzado.PrincipioSOLID.I.Solucion;
 
 public interface IFileteOrdenService {
 

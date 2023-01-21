@@ -1,4 +1,4 @@
-package javaAvanzado.PrincipioSOLID.L.Problema;
+package javaAvanzado.PrincipioSOLID.I.Problema;
 
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
