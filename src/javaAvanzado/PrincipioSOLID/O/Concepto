@@ -1,0 +1,5 @@
+Open-Closed Principle    => Principio Abierto-Cerrado
+
+Consiste en que la clase debería estar abierta a ser extendida y
+cerrada a modificaciones, es decir, que deberiamos ser capaces de extender
+la clase sin modificar la misma.
